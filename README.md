@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Enrique Meza C
 
-I'm currently working on Ruby On Rails Projects for Admios. 
+I'm currently working on Ruby On Rails Projects for MagmaLabs. 
 
 I am learning ML so many of my repos are targeting this learning. In my spare time, I am trying to code apps for kids
 like :
